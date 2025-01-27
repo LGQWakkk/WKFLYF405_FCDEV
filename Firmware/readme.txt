@@ -1,0 +1,3 @@
+目前支持Ardupilot和Betaflight固件
+Betaflight使用BetaflightConfigurator直接加载烧录betaflight_4.5.2.hex即可
+Ardupilot使用stm32cubeprogrammer或者其他烧录软件烧录arducopter_with_bl.hex
